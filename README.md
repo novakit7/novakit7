@@ -13,39 +13,31 @@ Currently exploring full-stack development and improving my Data Structures & Al
 
 ## Tech Stack
 
-### Languages
+**Languages:** C, C++, Python, JavaScript, TypeScript
 
-* C
-* C++
-* Python
-* JavaScript
-* TypeScript
+**Web Development:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, Bootstrap
 
-### Web Development
+**Tools:** Git, GitHub, VS Code
 
-* HTML
-* CSS
-* Bootstrap
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-
-### Core Concepts
-
-* Data Structures & Algorithms
-* REST APIs
-* CRUD Operations
-* Problem Solving
-* Edge Case Handling
+**Core Concepts:** Data Structures & Algorithms, REST APIs, CRUD Operations, Problem Solving
 
 ---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/novakit7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ankit-verma-04a3051b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/novakit">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ## Projects
 
