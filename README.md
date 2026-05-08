@@ -70,11 +70,13 @@ Menu-driven C application using file handling to manage student records efficien
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novakit7\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novakit7\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novakit7&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novakit7&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
+
 
 ## LeetCode Stats
 
