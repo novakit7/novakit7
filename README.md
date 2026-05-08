@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=220\&section=header\&text=Ankit%20Verma\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7\&lines=Electrical+Engineering+Student;Open+Source+Enthusiast;MERN+Stack+Learner;DSA+%7C+LeetCode+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7\&lines=Open+Source+Enthusiast;MERN+Stack+Learner;DSA+%7C+LeetCode+Problem+Solver)](https://git.io/typing-svg)
 
 ## About Me
 
