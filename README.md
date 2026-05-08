@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ankit Verma
 
-<!--
-**novakit7/novakit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at NIT Silchar with an interest in software development, open source, and problem solving.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Languages: C, C++, Python, JavaScript, TypeScript
+* Web Development: React.js, Node.js, Express.js, MongoDB, HTML, CSS, Bootstrap
+* Tools: Git, GitHub, VS Code
+* Concepts: Data Structures & Algorithms, REST APIs, CRUD Operations
+
+## Projects
+
+* **Notebook App** — Full-stack MERN application with authentication and CRUD functionality
+* **Student Record System** — File-handling based C application for managing student records
+
+## Coding
+
+* Solved 330+ problems on LeetCode
+* 1500+ LeetCode rating
+* Focused on DSA, optimization, and consistent problem solving
+
+## Connect
+
+* GitHub: https://github.com/novakit7
+* LinkedIn: https://www.linkedin.com/in/ankit-verma-04a3051b7/
+* LeetCode: https://leetcode.com/u/novakit
