@@ -2,38 +2,63 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ankit%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Open+Source+Enthusiast;MERN+Stack+Developer;DSA+%7C+LeetCode+Solver)](https://git.io/typing-svg)
-
-## About Me
-
-Electrical Engineering student at NIT Silchar passionate about full-stack development, open source, and problem solving.
-
-- Building MERN stack applications
-- Learning PostgreSQL & backend systems
-- Solved 330+ LeetCode problems (1500+ rating)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Open+Source+Contributor;Full+Stack+Developer;DSA+%7C+LeetCode+Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-**Languages:** C, C++, Python, JavaScript, TypeScript  
-**Frontend:** React.js, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB  
-**Tools:** Git, GitHub, VS Code
+Electrical Engineering undergraduate at NIT Silchar with a strong passion for software development, open source, and scalable web applications.
 
----
-
-## Featured Projects
-
-### Notebook App
-Full-stack MERN notes application with authentication and CRUD functionality.
-
-### Student Record System
-Menu-driven C application using file handling for record management.
+- 🚀 Building full-stack MERN applications
+- 🧠 Strengthening Data Structures & Algorithms
+- ⚡ Exploring PostgreSQL and backend architecture
+- 🌱 Consistently learning through projects and open source
 
 ---
 
-## Connect With Me
+## 🛠️ Tech Stack
+
+### Languages
+C • C++ • Python • JavaScript • TypeScript
+
+### Frontend
+React.js • HTML • CSS • Bootstrap
+
+### Backend & Database
+Node.js • Express.js • MongoDB • REST APIs
+
+### Tools & Concepts
+Git • GitHub • VS Code • CRUD Operations • Problem Solving • DSA
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Notebook App
+A full-stack MERN application featuring authentication and CRUD operations for efficient note management.
+
+### 🎓 Student Record System
+Menu-driven C application using file handling for maintaining student records efficiently.
+
+---
+
+## 🏆 Coding Journey
+
+- Solved **330+ problems** on LeetCode
+- Achieved **1500+ LeetCode rating**
+- Strong focus on algorithmic problem solving and optimization
+- Active contributor to open source and development projects
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio Website:** https://kitbuilds.online
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/novakit7">
@@ -51,7 +76,7 @@ Menu-driven C application using file handling for record management.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novakit7&theme=tokyonight" width="100%" />
@@ -59,5 +84,16 @@ Menu-driven C application using file handling for record management.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novakit7&theme=tokyonight" width="48%" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=novakit7&theme=tokyonight" width="48%" />
 </p>
+
+---
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/novakit?theme=dark&font=Karma)
+
+---
+
+⭐ *Focused on building impactful projects, contributing to open source, and continuously improving as a developer.*
