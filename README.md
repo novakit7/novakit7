@@ -1,64 +1,49 @@
-# Hi, I'm Ankit Verma 👋
+# Hi, I'm Ankit 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ankit%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Open+Source+Contributor;Full+Stack+Developer;DSA+%7C+LeetCode+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Development+Engineer+(Aspiring);Full-Stack+MERN+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-Electrical Engineering undergraduate at NIT Silchar with a strong passion for software development, open source, and scalable web applications.
+Aspiring **Software Development Engineer** passionate about building scalable, high-performance web applications.
 
-- 🚀 Building full-stack MERN applications
-- 🧠 Strengthening Data Structures & Algorithms
-- ⚡ Exploring PostgreSQL and backend architecture
-- 🌱 Consistently learning through projects and open source
+- 💻 Full-Stack MERN Developer
+- 🚀 Building real-time & AI-powered applications
+- 🧠 Solving DSA problems and strengthening system design
+- 🌱 Always learning modern technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-C • C++ • Python • JavaScript • TypeScript
+**Languages:** C • C++ • JavaScript • TypeScript • Python
 
-### Frontend
-React.js • HTML • CSS • Bootstrap
+**Frontend:** React • Tailwind CSS • HTML • CSS
 
-### Backend & Database
-Node.js • Express.js • MongoDB • REST APIs
+**Backend:** Node.js • Express.js • MongoDB • REST APIs • Socket.IO
 
-### Tools & Concepts
-Git • GitHub • VS Code • CRUD Operations • Problem Solving • DSA
+**Tools:** Git • GitHub • VS Code • Cloudinary
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+
+### 💬 Vellora
+A real-time MERN chat application featuring secure authentication, AI-powered assistance, friend management, media sharing, and Socket.IO.
 
 ### 📝 Notebook App
-A full-stack MERN application featuring authentication and CRUD operations for efficient note management.
-
-### 🎓 Student Record System
-Menu-driven C application using file handling for maintaining student records efficiently.
-
----
-
-## 🏆 Coding Journey
-
-- Solved **330+ problems** on LeetCode
-- Achieved **1500+ LeetCode rating**
-- Strong focus on algorithmic problem solving and optimization
-- Active contributor to open source and development projects
+A full-stack MERN notes application with authentication and CRUD functionality.
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website:** https://kitbuilds.online
+🔗 **https://kitbuilds.online**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="left">
   <a href="https://github.com/novakit7">
@@ -84,16 +69,11 @@ Menu-driven C application using file handling for maintaining student records ef
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novakit7&theme=tokyonight" width="48%" />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=novakit7&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/novakit?theme=dark&font=Karma)
-
----
-
-⭐ *Focused on building impactful projects, contributing to open source, and continuously improving as a developer.*
